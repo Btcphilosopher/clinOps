@@ -1,0 +1,6 @@
+{
+  "name": "ClinOps Secure",
+  "description": "Secure, private clinical operations and patient engagement platform with role-based access control, EHR records, and messenging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
